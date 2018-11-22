@@ -5,4 +5,4 @@ This is a simple React Native Quiz App. I have used React Native Expo to build i
 
 <h3>Or</h3>
 
-Scan the QR Code on <a href="https://expo.io/@ramish2000/quizapp">this Link</a> with Expo App to run application directly without installing
+Scan the QR Code on <a href="https://expo.io/@ramish2000/quizapp">this Link</a> with Expo Client App to run application directly without installing

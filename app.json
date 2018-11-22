@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MR Quiz App",
+    "description": "This project is really great.",
+    "slug": "quizapp",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "android":{
+      "package": "com.mrinternational.quizapp",
+      "versionCode": 1,
+      "permissions": ["CAMERA"],
+      "icon": "./assets/icon.png"
+    },
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
